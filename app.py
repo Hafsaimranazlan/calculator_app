@@ -5,7 +5,8 @@ def main():
     print('''\n select the function from the following opition:
           1. Add
           2. Subtract
-          3. multiply ''')
+          3. multiply
+          4. area  ''')
     user_input=input('select the function :')
     x=int(input('value of x :'))
     y=int(input('value of y :'))
